@@ -1,6 +1,6 @@
 # UnityPong
 
-This is a reimagnined Pong Game created in Unity by Taegan Williams. The Game was originally created by Atatri. If you have any questions or concerns about the game, please contact me through GitHub.
+This is a reimagnined Pong Game created in Unity 2019.2.17f1 by Taegan Williams. The Game was originally created by Atatri. If you have any questions or concerns about the game, please contact me through GitHub.
 
 <h2>To Configure / Build the game.</h2></br>
 
