@@ -2,9 +2,9 @@
 
 This is a reimagnined Pong Game created in Unity by Taegan Williams. The Game was originally created by Atatri. If you have any questions or concerns about the game, please contact me through GitHub.
 
-<h2>To Configure / Build the game.</h2></br></br>
+<h2>To Configure / Build the game.</h2></br>
 
-<h3>If you have Unity installed and can run .exe or .app files <h3> </br>
+<h3>If you have Unity installed and can run .exe or .app files </h3> </br>
  1.) Download this repository from github using the clone command or by downloading from the website. (https://github.com/taeganw/UnityPong)
    </br> </br>
  <b>WINDOWS </b> After Unzipping the File, Run Pong Game.exe located in the Pong Game Folder.
