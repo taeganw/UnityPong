@@ -348,7 +348,7 @@ ScriptsOnlyBuild:
     className: GameHUD
   - hash:
       serializedVersion: 2
-      Hash: f7bf1d470d2cb5b23c8c64d491342ae1
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: StartGame
@@ -608,4 +608,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/Pong.unity
   - Assets/Scenes/Game.unity
-  playerPath: /Users/taeganwilliams/Projects/Pong Game/PongGameFin.app
+  playerPath: /Users/taeganwilliams/Projects/Pong Game/PongGameFinMac.app
