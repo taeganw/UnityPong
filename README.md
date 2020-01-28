@@ -18,7 +18,7 @@ This is a reimagnined Pong Game created in Unity by Taegan Williams. The Game wa
   1.) Go to the Unity website (https://store.unity.com/download-nuo) and download         Unity HUB. It does not matter if you are a new or returning user, simply click       the link more applicable to you. 
   2.) Once The Unity Hub is installed, walk through the installation process. 
   3.) License the Software by following the provided links. The license is free for       personal use.
-  4.) Clicking on the Installs Tab, we can click the upper button to add a version         of Unity.
+  4.) Clicking on the Installs Tab, we can click the upper 'ADD' button to add a           version of Unity.
 </p>
 
 
