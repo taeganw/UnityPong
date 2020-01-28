@@ -4,7 +4,7 @@ This is a reimagnined Pong Game created in Unity 2019.2.17f1 by Taegan Williams.
 
 <h2>To Configure / Build the game.</h2>
 
-<h3>If you have Unity installed and can run .exe or .app files </h3>
+<h3>If you can run .exe or .app files </h3>
  1.) Download this repository from github using the clone command or by downloading from the website. (https://github.com/taeganw/UnityPong)
    </br> </br>
  <b>WINDOWS </b> After Unzipping the File, Run Pong Game.exe located in the Pong Game Folder.
