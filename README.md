@@ -4,24 +4,24 @@ This is a reimagnined Pong Game created in Unity by Taegan Williams. The Game wa
 
 <b>To Configure / Build the game.</b>
 
-<b>The Fast Instructions.</b>
+<b>The Fast Instructions.</b> </br>
    1.) Download this repository from github using the clone command or by downloading from the website. (https://github.com/taeganw/UnityPong)
-   </br>
+   </br> </br>
   2.) After Unzipping the File, add the Pong Game by navigating to the Pong Game in       the instaliation directory {download folder}/Unity-Pong-master/Pong Game and 
       opening the Pong Game Folder.
-      </br>
+      </br> </br>
   3.) Once the Project is open in the Unity Editor, click File in the Header Menu         and the option to Build and Run.
-     </br>
+     </br> </br>
   4.) A prompt will appear to save the file, run the game. 
-   </br>
+   </br> </br>
 
-<b>To Install Unity.</b>
+<b>To Install Unity.</b> </br>
   1.) Go to the Unity website (https://store.unity.com/download-nuo) and download         Unity HUB. It does not matter if you are a new or returning user, simply click       the link more applicable to you. 
-   </br>
+   </br> </br>
   2.) Once The Unity Hub is installed, walk through the installation process. 
-     </br>
+     </br> </br>
   3.) License the Software by following the provided links. The license is free for       personal use.
-    </br>
+    </br> </br>
   4.) Clicking on the Installs Tab, we can click the upper 'ADD' button to add a           version of Unity.
 
 
